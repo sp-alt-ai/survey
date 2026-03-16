@@ -1,3 +1,5 @@
+# pylint: disable=import-error
+# type: ignore
 import streamlit as st
 from datetime import datetime
 import pandas as pd
